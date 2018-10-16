@@ -1,3 +1,3 @@
 # Hello-world
-First Github Repository /n
+First Github Repository  
 My name is Yesbol. I am learning GitHub for iOS development
